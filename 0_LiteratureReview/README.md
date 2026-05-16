@@ -44,7 +44,7 @@ Approaches or solutions that have been tried before on similar projects.
   - **Outcomes**: For sub-1B models, multi-threaded CPU inference achieves up to 1.33× speedup over GPU; realized 17 tok/s on a 1B model
   - **Relation to the Project**: Since 10-20 tok/s seem fast enough for translation tasks this paper gives us an idea about realistic model sizes
 
-- **Source 6**: Challenging GPU Dominance: When CPUs Outperform for On-Device LLM Inference
+- **Source 6**: Misc
 
   - **[Awesome Mobile LLMs](https://github.com/stevelaskaridis/awesome-mobile-llm)**
   - Curated index of academic papers, frameworks, and tools for running LLMs on mobile and edge devices
